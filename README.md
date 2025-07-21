@@ -27,6 +27,7 @@ A modern iOS app that uses AI to analyze receipts and split bills among multiple
 1. Open `WhoAteWhat.xcodeproj` in Xcode
 2. Select your target device or simulator
 3. Build and run the project (⌘+R)
+4. Grant camera and photo library permissions when prompted
 
 ## Usage
 

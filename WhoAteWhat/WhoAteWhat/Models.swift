@@ -74,9 +74,7 @@ struct Person: Codable, Identifiable {
         totalAmount + taxAmount(receipt: receipt) + tipAmount(receipt: receipt)
     }
     
-    var finalTotal: Double {
-        totalAmount + taxAmount + tipAmount
-    }
+
 }
 
 struct AssignedItem: Codable, Identifiable {
