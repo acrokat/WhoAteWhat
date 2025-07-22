@@ -7,6 +7,7 @@
 
 import Foundation
 import SwiftUI
+import UIKit
 
 // MARK: - Receipt Models
 struct Receipt: Codable, Identifiable {
